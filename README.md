@@ -1,4 +1,4 @@
-# Beego simple crud example web app.
+# Beego simple API example.
 
 #### The app shows user registration and login process, email verification via url sent by MailGun.
 #### It has example of using middleware in beego: getting user info form token, checking verified email and role "admin"
