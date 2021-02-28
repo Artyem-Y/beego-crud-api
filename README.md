@@ -5,7 +5,7 @@
 
 ## 1: Initial Setup
 ```bash
-git clone git@github.com:Artyem-Y/beego-crud-api-.git
+git clone git@github.com:Artyem-Y/beego-crud-api.git
 ```
 
 ## 2: Install PostgreSQL:
